@@ -1,13 +1,8 @@
-# Comp0129-CW1-team3
-
-This working folder contains team 3's submission to Module COMP0129 coursework 1. 
-
 # Contributor
 
-- Jingyuan Wei (jeffery.wei.19@ucl.ac.uk)
-
-- Xiang Long (xiang.long.22@ucl.ac.uk)
-- Zuxun Wang (zuxun.wang.22@ucl.ac.uk)
+- Jingyuan (Jeffery) Wei
+- Xiang Long
+- Zuxun Wang
 
 # Licenses
 This project is licensed under the terms of the MIT license.
@@ -24,15 +19,13 @@ Coursework tasks are divided and distributed equally to each team member. Every 
 We work as a group for each task to implement the code and communicate via Teams, but mainly one man writing while others give ideas and detect bugs on the fly. After that, we have the rest two members do either code reviewing or testing.
 
 # Setup
-1. Download the submission **cw1_team_3** folder from Moodle COMP0129 coursework 1 tab under
+1. Download the source code
 
 2. Move the folder into the working directory under the **comp0129_s23_robot/src** directory. 
 
     ```bash
     ~/comp0129_s23_robot/src/cw1_team_3
     ```
-
-    
 
 3. The compulsory packages we used in this coursework are listed in the **CMakeLists.txt** file. Those essential packages are:
     - roscpp
